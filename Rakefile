@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "mongo_store"
   gem.homepage = "http://github.com/vpereira/mongo_store"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{cache_store using mongodb}
+  gem.description = %Q{option to use mongo capped collection as cache_store}
   gem.email = "vpereira@web.de"
   gem.authors = ["vpereira"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
